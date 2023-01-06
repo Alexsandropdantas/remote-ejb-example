@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.alexsandro</groupId>
+	<groupId>com.illucit</groupId>
 	<artifactId>ejb-remote-server</artifactId>
 	<version>1.0.0</version>
 	<packaging>ejb</packaging>
@@ -12,6 +12,7 @@
 	<name>WildFly Example: EJB Remote Server</name>
 	<description>Server-Side EJB for remote EJB example on Wildfly</description>
 
+	<url>http://www.illucit.com</url>
 	<licenses>
 		<license>
 			<name>Apache License, Version 2.0</name>
